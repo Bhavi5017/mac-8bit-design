@@ -53,23 +53,24 @@ The MAC performs:
 
 ---
 
-## 📊 Results
-
-### Waveform 1
-
-![Waveform1](waveform1.png)
-
-### Waveform 2
-
-![Waveform2](waveform2.png)
-
----
-
 ## 🧷 Symbol
 
 ![Symbol](mac_symbol.png)
 
 ---
+
+## 📊 Results
+
+### Waveform 1
+
+![Waveform1](waveform1.jpeg)
+
+### Waveform 2
+
+![Waveform2](waveform2.jpeg)
+
+---
+
 
 ## 🛠 Tools Used
 
