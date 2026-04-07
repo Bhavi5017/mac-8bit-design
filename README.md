@@ -35,15 +35,15 @@ The MAC performs:
 
 ### Adder
 
-![Adder](adder.png)
+![Adder](adder_8bit.png)
 
 ### Register
 
-![Register](register.png)
+![Register](register_8bit.png)
 
 ### Multiplexer
 
-![MUX](mux.png)
+![MUX](mux_41.png)
 
 ---
 
