@@ -23,7 +23,7 @@ The MAC performs:
 
 ## 🖼️ MAC Schematic
 
-![MAC](schematics/mac_schematic.png)
+![MAC](mac_schematic.png)
 
 ---
 
@@ -31,25 +31,25 @@ The MAC performs:
 
 ### Multiplier
 
-![Multiplier](schematics/multiplier.png)
+![Multiplier](multiplier.png)
 
 ### Adder
 
-![Adder](schematics/adder.png)
+![Adder](adder.png)
 
 ### Register
 
-![Register](schematics/register.png)
+![Register](register.png)
 
 ### Multiplexer
 
-![MUX](schematics/mux.png)
+![MUX](mux.png)
 
 ---
 
 ## 🧪 Testbench
 
-![Testbench](testbench/mac_testbench.png)
+![Testbench](mac_testbench.png)
 
 ---
 
@@ -57,17 +57,17 @@ The MAC performs:
 
 ### Waveform 1
 
-![Waveform1](results/waveform1.png)
+![Waveform1](waveform1.png)
 
 ### Waveform 2
 
-![Waveform2](results/waveform2.png)
+![Waveform2](waveform2.png)
 
 ---
 
 ## 🧷 Symbol
 
-![Symbol](symbol/mac_symbol.png)
+![Symbol](mac_symbol.png)
 
 ---
 
